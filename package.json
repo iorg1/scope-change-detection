@@ -1,0 +1,22 @@
+{
+  "name": "scope-change-detection",
+  "version": "0.0.1",
+  "description": "Detects changed scopes by comparing two json structures",
+  "main": "src/scope-change-detection.js",
+  "scripts": {
+    "test": "node_modules/jasmine-node/bin/jasmine-node spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jorgen81/scope-change-detection.git"
+  },
+  "author": "Jørgen Landsnes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jorgen81/scope-change-detection/issues"
+  },
+  "homepage": "https://github.com/jorgen81/scope-change-detection",
+  "devDependencies": {
+    "jasmine-node": "~1.14.5"
+  }
+}
